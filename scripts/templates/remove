@@ -3,7 +3,7 @@
 # Script is based off of nopkg code written by Walter Meyer and Nick McSpadden in the early days of Munki. Rewritten in 2019 by Michael Page for use with Addigy.
 
 ### Printer Variables ###
-display_name="Daraco CH Accounts"
+display_name="My Printer Name"
 
 ### Nothing below this line needs to change. ###
 

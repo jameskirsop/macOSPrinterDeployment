@@ -4,8 +4,8 @@
 
 ### Printer Variables ###
 current_version="0.9.0"
-display_name="Daraco CH Accounts"
-address="172.31.1.247"
+display_name="My Printer Name"
+address="172.31.1.1"
 use_ipp_everywhere=true
 protocol="ipp"
 
